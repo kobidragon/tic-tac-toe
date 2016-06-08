@@ -12,6 +12,9 @@
 		304A969A1C8BB268001146E6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 304A96981C8BB268001146E6 /* Main.storyboard */; };
 		304A969C1C8BB268001146E6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 304A969B1C8BB268001146E6 /* Assets.xcassets */; };
 		304A969F1C8BB268001146E6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 304A969D1C8BB268001146E6 /* LaunchScreen.storyboard */; };
+		304A96A91C8BB546001146E6 /* tttGrid.png in Resources */ = {isa = PBXBuildFile; fileRef = 304A96A61C8BB546001146E6 /* tttGrid.png */; };
+		304A96AA1C8BB546001146E6 /* tttO.png in Resources */ = {isa = PBXBuildFile; fileRef = 304A96A71C8BB546001146E6 /* tttO.png */; };
+		304A96AB1C8BB546001146E6 /* tttX.png in Resources */ = {isa = PBXBuildFile; fileRef = 304A96A81C8BB546001146E6 /* tttX.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +25,9 @@
 		304A969B1C8BB268001146E6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		304A969E1C8BB268001146E6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		304A96A01C8BB268001146E6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		304A96A61C8BB546001146E6 /* tttGrid.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = tttGrid.png; path = ../../tttGrid.png; sourceTree = "<group>"; };
+		304A96A71C8BB546001146E6 /* tttO.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = tttO.png; path = ../../tttO.png; sourceTree = "<group>"; };
+		304A96A81C8BB546001146E6 /* tttX.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = tttX.png; path = ../../tttX.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +63,9 @@
 				304A96941C8BB268001146E6 /* AppDelegate.swift */,
 				304A96961C8BB268001146E6 /* ViewController.swift */,
 				304A96981C8BB268001146E6 /* Main.storyboard */,
+				304A96A61C8BB546001146E6 /* tttGrid.png */,
+				304A96A71C8BB546001146E6 /* tttO.png */,
+				304A96A81C8BB546001146E6 /* tttX.png */,
 				304A969B1C8BB268001146E6 /* Assets.xcassets */,
 				304A969D1C8BB268001146E6 /* LaunchScreen.storyboard */,
 				304A96A01C8BB268001146E6 /* Info.plist */,
@@ -122,9 +131,12 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				304A96A91C8BB546001146E6 /* tttGrid.png in Resources */,
+				304A96AA1C8BB546001146E6 /* tttO.png in Resources */,
 				304A969F1C8BB268001146E6 /* LaunchScreen.storyboard in Resources */,
 				304A969C1C8BB268001146E6 /* Assets.xcassets in Resources */,
 				304A969A1C8BB268001146E6 /* Main.storyboard in Resources */,
+				304A96AB1C8BB546001146E6 /* tttX.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
